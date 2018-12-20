@@ -20,3 +20,6 @@ That way the activity that is being recorded will be recorded for that email
 **api doc** - https://developers.activecampaign.com/v3/reference#update-a-group
 
 **sdk examples** - https://github.com/ActiveCampaign/activecampaign-api-php/blob/master/examples.php
+
+## Abandoned cart 
+To use the abandoned cart as well some other cool features you need the **Deep data** integration
